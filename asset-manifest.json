@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/orderflow/static/css/main.e6c13ad2.css",
+    "main.js": "/orderflow/static/js/main.c55dd955.js",
+    "static/js/453.c405b9ef.chunk.js": "/orderflow/static/js/453.c405b9ef.chunk.js",
+    "index.html": "/orderflow/index.html",
+    "main.e6c13ad2.css.map": "/orderflow/static/css/main.e6c13ad2.css.map",
+    "main.c55dd955.js.map": "/orderflow/static/js/main.c55dd955.js.map",
+    "453.c405b9ef.chunk.js.map": "/orderflow/static/js/453.c405b9ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c55dd955.js"
+  ]
+}
